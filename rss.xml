@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[sololive.es]]></title>
         <description><![CDATA[sololive.es]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sololive-es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 11:23:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 11:49:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sololive-es/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Este domingo tenemos el pacer de escuchar en directo a Oscar Cruz Trio que presentaran su nuevo disco en la  vinoteca Zona d´Ombra en el corazón del barrio gótico de Barcelona. Os esperamos para disfrutar de buen vino y buena música.</p>]]></description>
-            <link>undefined6aa24d10-7ff1-4ac4-9c6d-486112b5868a/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/729298a4-6af9-4ce6-9055-e7d0dce6744f.JPG">]]></description>
+            <link>https://thegrid.ai/sololive-es/6aa24d10-7ff1-4ac4-9c6d-486112b5868a/index.html</link>
             <guid isPermaLink="false">6aa24d10-7ff1-4ac4-9c6d-486112b5868a</guid>
-            <pubDate>Thu, 11 Feb 2016 11:22:34 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 11:49:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
