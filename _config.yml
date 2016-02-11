@@ -1,0 +1,28 @@
+name: sololive.es
+favicon: null
+layout_spectrum: 0.5112612841185182
+typography_spectrum: 0.32849007402546704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3836288466118276
+  lightness: 0.002066141925752163
+  saturation: 0.7481953920796514
+  rhythmicContrast: 0.5705332490615547
+purpose: []
