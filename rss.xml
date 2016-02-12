@@ -4,21 +4,21 @@
         <description><![CDATA[sololive.es]]></description>
         <link>https://thegrid.ai/sololive-es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 12:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 14:06:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sololive-es/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La casita]]></title>
+            <description><![CDATA[<article><h1>La casita</h1><p>Este domingo tenemos el placer de escuchar en directo a Oscar Cruz Trio que presentaran su nuevo disco en la  vinoteca Zona d´Ombra en el corazón del barrio gótico de Barcelona. Os esperamos para disfrutar de buen vino y buena música.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac04eecb5184042c4e7d52af79104a84b027e443.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sololive-es/6aa24d10-7ff1-4ac4-9c6d-486112b5868a/index.html</link>
+            <guid isPermaLink="false">6aa24d10-7ff1-4ac4-9c6d-486112b5868a</guid>
+            <pubDate>Fri, 12 Feb 2016 14:05:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2b8ee12-3691-4a1b-9060-028eaaa77847.png">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2b8ee12-3691-4a1b-9060-028eaaa77847.png</link>
             <guid isPermaLink="false">968eaf75-47d8-4fbf-9bde-b6d393b423f7</guid>
             <pubDate>Fri, 12 Feb 2016 12:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La casita]]></title>
-            <description><![CDATA[<article><h1>La casita</h1><p>Este domingo tenemos el pacer de escuchar en directo a Oscar Cruz Trio que presentaran su nuevo disco en la  vinoteca Zona d´Ombra en el corazón del barrio gótico de Barcelona. Os esperamos para disfrutar de buen vino y buena música.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ee4280b91c4d0f0be39508f35b6669a454127e4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sololive-es/6aa24d10-7ff1-4ac4-9c6d-486112b5868a/index.html</link>
-            <guid isPermaLink="false">6aa24d10-7ff1-4ac4-9c6d-486112b5868a</guid>
-            <pubDate>Thu, 11 Feb 2016 14:43:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
