@@ -1,9 +1,7 @@
-favicon: null
 name: sololive.es
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.74853
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7481954
-  brandStrength: 0.3836288466118276
-  lightness: 0.8369176
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+  brandStrength: 0.3836288466118276
+  lightness: 0.8369176
+  saturation: 0.7481954
   rhythmicContrast: 0.3870968
-typography_spectrum: 0.74853
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.24536
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
