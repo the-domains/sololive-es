@@ -1,7 +1,7 @@
 name: sololive.es
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.74853
+layout_spectrum: 0.25048
+typography_spectrum: 0.44795
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#caab8c'
+    - '#875941'
+    - '#4e290c'
+    - '#090000'
   brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.7481954
-  rhythmicContrast: 0.75
+  lightness: 0.75
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
