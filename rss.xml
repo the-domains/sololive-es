@@ -4,14 +4,14 @@
         <description><![CDATA[sololive.es]]></description>
         <link>https://thegrid.ai/sololive-es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 22:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 06:30:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sololive-es/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Watch The Internet Cover N.E.R.D.'s "Tape You" Live]]></title>
-            <description><![CDATA[<article><h1>Watch The Internet Cover N.E.R.D.'s "Tape You" Live</h1><p>Currently, The Internet are spending some time in the outback (along with what seems like half of the game.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bd26932eaa2529abb6bd7ab657429aa9b5aec98.jpg"></article>]]></description>
-            <link>http://www.okayplayer.com/news/the-internet-n-e-r-d-cover-tape-you-live-video.html</link>
-            <guid isPermaLink="false">30fccfe1-40f3-4d00-9b1b-98477863d05b</guid>
-            <pubDate>Fri, 12 Feb 2016 22:43:15 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.facebook.com/</p>]]></description>
+            <link>https://thegrid.ai/sololive-es/httpswwwfacebookcom/index.html</link>
+            <guid isPermaLink="false">6bcdac19-f9dc-4b07-933f-2be2d278c05b</guid>
+            <pubDate>Sat, 11 Jun 2016 06:30:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2b8ee12-3691-4a1b-9060-028eaaa77847.png</link>
             <guid isPermaLink="false">968eaf75-47d8-4fbf-9bde-b6d393b423f7</guid>
             <pubDate>Sat, 13 Feb 2016 10:42:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch The Internet Cover N.E.R.D.'s "Tape You" Live]]></title>
+            <description><![CDATA[<article><h1>Watch The Internet Cover N.E.R.D.'s "Tape You" Live</h1><p>Currently, The Internet are spending some time in the outback (along with what seems like half of the game.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bd26932eaa2529abb6bd7ab657429aa9b5aec98.jpg"></article>]]></description>
+            <link>http://www.okayplayer.com/news/the-internet-n-e-r-d-cover-tape-you-live-video.html</link>
+            <guid isPermaLink="false">30fccfe1-40f3-4d00-9b1b-98477863d05b</guid>
+            <pubDate>Fri, 12 Feb 2016 22:43:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
